@@ -1,0 +1,1 @@
+console.log('changes added from window 2')
