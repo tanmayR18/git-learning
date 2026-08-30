@@ -1,1 +1,1 @@
-console.log('changes from mac')
+// starting the git self-learning with the fundamentals
