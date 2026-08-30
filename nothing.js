@@ -1,3 +1,5 @@
 // starting the git self-learning with the fundamentals
 
-// I hope taqset get close
+// taqset sucks
+
+// I hope taqset fuck close
