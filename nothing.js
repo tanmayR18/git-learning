@@ -1,5 +1,3 @@
-// starting the git self-learning with the fundamentals
+// changes before amend
 
-// taqset sucks
-
-// I hope taqset fuck close
+// this what you get after amend
