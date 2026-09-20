@@ -6,3 +6,4 @@
 
 // v1.1.1 bug fixes
 // Adding some features for v1.2.0
+// v1.2.0 features added
